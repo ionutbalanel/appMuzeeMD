@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369974610633",
+    "firebase_url": "https://muzee-md-default-rtdb.firebaseio.com",
+    "project_id": "muzee-md",
+    "storage_bucket": "muzee-md.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369974610633:android:2c3b215de3305d2cf31b18",
+        "android_client_info": {
+          "package_name": "com.ltstefanesti.muzeemd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369974610633-29bv8eq0si366f1gkh7ejmkrhbdit9hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ6zFOYFyMgq1Alts4ZHHKLZQJ1qytdQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369974610633-29bv8eq0si366f1gkh7ejmkrhbdit9hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
